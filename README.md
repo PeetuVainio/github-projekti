@@ -281,3 +281,6 @@ Yritin saada yhdistettyä Azuren tietokantaan (en saanut toimimaan)
 -Sain sivun valmiiksi  
 -Lähetin projektin Elsaan  
 -Lähetin github projektin Elsaan  
+-sain kaiken mergettyä  
+merge konfliktit:  
+korruptoituneet filet ja ei ollu käyttöoikeuksia  
