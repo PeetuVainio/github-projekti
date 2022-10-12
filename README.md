@@ -269,6 +269,7 @@ Tein google chartsia
 }  
 </script>  
 <div id="columnchart_values" style="width: 900px; height: 300px;"></div>  
+
 ## 5.10.2022
 Yritin saada yhdistettyä Azuren tietokantaan (en saanut toimimaan)  
 ## 11.10.2022
