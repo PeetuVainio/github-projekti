@@ -229,7 +229,7 @@ Tehtiin html form, jossa oli täytettävänä:
 </body>  
 </html>  
 ## 4.10.2022
-Tein google chartsia
+Tein google chartsia  
 #### koodi
 
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>  
@@ -271,4 +271,4 @@ Tein google chartsia
 ## 5.10.2022
 Yritin saada yhdistettyä Azuren tietokantaan (en saanut toimimaan)  
 ## 11.10.2022
--tein html sivua, jossa käytin css
+-tein html sivua, jossa käytin css  
