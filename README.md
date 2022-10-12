@@ -273,4 +273,10 @@ Tein google chartsia
 ## 5.10.2022
 Yritin saada yhdistettyä Azuren tietokantaan (en saanut toimimaan)  
 ## 11.10.2022
--tein html sivua, jossa käytin css  
+-tein html sivua, jossa käytin css:ää
+-Tein githubiin branchejä: main, develop, staging
+-Palautin Elsaan arduinon, graafisen ohjeiston, HTML-Perusteet
+## 12.10.2022
+-tein html sivua, jossa käytin css:ää
+-Sain sivun valmiiksi
+-Lähetin projektin Elsaan
